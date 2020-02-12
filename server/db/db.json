@@ -1,0 +1,12 @@
+{
+  "restful": [
+    {
+      "id": 0,
+      "way": "get",
+      "api": "/api/user",
+      "priv": "user_config",
+      "result": "",
+      "request": "123"
+    }
+  ]
+}
